@@ -1,3 +1,4 @@
+// Description:  Print a receipt
 var AWS = require("aws-sdk");
 var moment = require('moment');
 var PDFDocument = require('pdfkit');
